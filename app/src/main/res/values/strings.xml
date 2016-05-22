@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="no_notes"> notes</string>
+    <string name="menu_insert">Add Item</string>
+    <string name="title">Title :</string>
+    <string name="body">Body :</string>
+    <string name="confirm">Add</string>
+</resources>
